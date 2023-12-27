@@ -98,7 +98,7 @@ CSS INDEX
 
     --font-custom-stack-other: 'Outfit', sans-serif;
 
-    --font-color-primary: #9c3b5a;
+    --font-color-primary: #be1622;
     --font-color-secondary: #333333;
     --theme-border-color: rgba(192, 89, 121, 0.3);
 
@@ -176,7 +176,7 @@ h3,
 h4, 
 h5, 
 h6 {
-  color: var(--font-color-header);
+  color: #be1622;
   margin: 0;
   padding: 0;
   font-family: var(--font-custom-stack-header);
