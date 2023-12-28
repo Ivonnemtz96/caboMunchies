@@ -33,7 +33,7 @@
                                     <p class="e1">
                                         Las mejores gomitas con chile en Cabo
                                     </p>
-                                    <a href="#gallery" class="btn btn-style e1">Ver galería</a>
+                                    <a href="#galeria" class="btn btn-style e1">Ver galería</a>
                                 </div>
                             </div>
                         </div>
@@ -157,7 +157,7 @@
                                     reiciendis aliquam fuga minus exercitationem eius ipsam enim? Molestiae ex at
                                     officiis dignissimos neque? Expedita, id.
                                 </p>
-                                <a href="#gallery" class="btn btn-style">Ver galería</a>
+                                <a href="#galeria" class="btn btn-style">Ver galería</a>
                             </div>
                         </div>
                     </div>
@@ -506,7 +506,7 @@
                     </div>
                     <div class="contact-content">
                         <!-- contact us from start -->
-                        <div class="contact-detail form-warp">
+                        <div class="contact-detail form-warp order-sm-1 order-md-0">
                             <div class="form-title">
                                 <h6>Escríbenos un mensaje</h6>
                             </div>
@@ -541,7 +541,7 @@
                         </div>
                         <!-- contact us from start -->
                         <!-- contact get info. start -->
-                        <div class="contact-detail get-info">
+                        <div class="contact-detail get-info order-sm-0 order-md-1">
                             <div class="form-title">
                                 <h6>Información de contacto</h6>
                             </div>
