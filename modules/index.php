@@ -129,7 +129,7 @@
 
     <!-- custom-text start -->
     <section class="custom-text section-ptb">
-        <div class="container">
+        <div class="container" id="nosotros">
             <div class="row">
                 <div class="col">
                     <div class="custom-text-wrapper">
@@ -392,7 +392,7 @@
 
     <!-- blog start -->
     <section class="blog-wrap section-ptb">
-        <div class="container">
+        <div class="container" id="menu">
             <div class="row">
                 <div class="col">
                     <div class="section-capture">
@@ -426,7 +426,7 @@
 
     <!-- insta start -->
     <section class="instagram-warp section-ptb">
-        <div class="container">
+        <div class="container" id="galeria">
             <div class="row">
                 <div class="col">
                     <div class="section-capture">
@@ -439,52 +439,52 @@
                         <ul class="insta-ul">
                             <li class="insta-li">
                                 <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/instagram-07.jpg" class="img-fluid" alt="instagram-07">
+                                    <img src="img/insta/01.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
                                 <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/instagram-08.jpg" class="img-fluid" alt="instagram-08">
+                                    <img src="img/insta/02.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
                                 <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/instagram-09.jpg" class="img-fluid" alt="instagram-09">
+                                    <img src="img/insta/03.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
                                 <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/instagram-10.jpg" class="img-fluid" alt="instagram-10">
+                                    <img src="img/insta/04.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
                                 <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/instagram-11.jpg" class="img-fluid" alt="instagram-11">
+                                    <img src="img/insta/05.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
                                 <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/instagram-12.jpg" class="img-fluid" alt="instagram-12">
+                                    <img src="img/insta/06.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
                                 <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/instagram-13.jpg" class="img-fluid" alt="instagram-13">
+                                    <img src="img/insta/07.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
                                 <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/instagram-14.jpg" class="img-fluid" alt="instagram-14">
+                                    <img src="img/insta/08.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
                                 <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/instagram-15.jpg" class="img-fluid" alt="instagram-15">
+                                    <img src="img/insta/09.jpg?=1" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
                                 <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/instagram-16.jpg" class="img-fluid" alt="instagram-16">
+                                    <img src="img/insta/10.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                         </ul>
@@ -495,7 +495,7 @@
     </section>
 
     <section class="form-contact">
-        <div class="container">
+        <div class="container" id="contacto">
             <div class="row">
                 <div class="col">
                     <div class="section-capture">
