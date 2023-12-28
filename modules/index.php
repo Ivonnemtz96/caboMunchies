@@ -79,7 +79,7 @@
                         <li class="banner-wrap banner-hover">
                             <div class="box-img">
                                 <a href="#contacto">
-                                    <img src="img/banner/category-05.jpg" class="img-fluid" alt="category-05" />
+                                    <img src="img/banner/01.jpg" class="img-fluid" alt="Cabo Munchies" />
                                 </a>
                             </div>
                             <div class="custom-banner-content">
@@ -90,7 +90,7 @@
                         <li class="banner-wrap banner-hover">
                             <div class="box-img">
                                 <a href="#contacto">
-                                    <img src="img/banner/category-06.jpg" class="img-fluid" alt="category-06" />
+                                    <img src="img/banner/02.jpg" class="img-fluid" alt="Cabo Munchies" />
                                 </a>
                             </div>
                             <div class="custom-banner-content">
@@ -101,7 +101,7 @@
                         <li class="banner-wrap banner-hover">
                             <div class="box-img">
                                 <a href="#contacto">
-                                    <img src="img/banner/category-07.jpg" class="img-fluid" alt="category-07" />
+                                    <img src="img/banner/03.jpg" class="img-fluid" alt="Cabo Munchies" />
                                 </a>
                             </div>
                             <div class="custom-banner-content">
@@ -112,7 +112,7 @@
                         <li class="banner-wrap banner-hover">
                             <div class="box-img">
                                 <a href="#contacto">
-                                    <img src="img/banner/category-08.jpg" class="img-fluid" alt="category-08" />
+                                    <img src="img/banner/04.jpg" class="img-fluid" alt="Cabo Munchies" />
                                 </a>
                             </div>
                             <div class="custom-banner-content">
@@ -126,6 +126,47 @@
         </div>
     </section>
     <!-- banner end -->
+
+    <!-- custom-text start -->
+    <section class="custom-text section-ptb">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="custom-text-wrapper">
+                        <div class="custom-text-img">
+                            <div class="offer-img">
+                                <a href="#">
+                                    <div class="banner-main">
+                                        <span class="full-img">
+                                            <img src="img/banner/05.jpg" class="img-fluid" alt="Cabo Munchies">
+                                        </span>
+                                    </div>
+                                    <div class="banner-side">
+                                        <img src="img/banner/06.jpg" class="img-fluid" alt="Cabo Munchies">
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="custom-text-content">
+                            <div class="custom-width">
+                                <span class="sub-title">Sobre Nosotros</span>
+                                <h2>Cabo Munchies</h2>
+                                <p>
+                                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias commodi esse ex,
+                                    quibusdam vitae assumenda optio eos rerum saepe dolores nulla impedit est, qui
+                                    reiciendis aliquam fuga minus exercitationem eius ipsam enim? Molestiae ex at
+                                    officiis dignissimos neque? Expedita, id.
+                                </p>
+                                <a href="#gallery" class="btn btn-style">Ver galería</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- custom-text end -->
+
     <!-- product-tab start -->
     <section class="special-category collection-category-template section-ptb" style="background-color: #000;">
         <div class="container">
@@ -155,8 +196,6 @@
                                             </a>
                                             <!-- product-action end -->
                                         </div>
-                                        <!-- product-img end -->
-                                        <!-- product-content start -->
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
@@ -314,7 +353,7 @@
                         <div class="banner-grid">
                             <div class="single-banner banner-hover">
                                 <a href="javascript:void(0)" class="banner-img">
-                                    <img src="img/banner/banner-03.jpg" class="img-fluid" alt="banner-03" />
+                                    <img src="img/banner/07.jpg" class="img-fluid" alt="banner-03" />
                                 </a>
                             </div>
                             <div class="abt-banner-desc">
@@ -330,7 +369,7 @@
                         <div class="banner-grid">
                             <div class="single-banner banner-hover">
                                 <a href="javascript:void(0)" class="banner-img">
-                                    <img src="img/banner/banner-04.jpg" class="img-fluid" alt="banner-04" />
+                                    <img src="img/banner/08.jpg" class="img-fluid" alt="banner-04" />
                                 </a>
                             </div>
                             <div class="abt-banner-desc">
@@ -350,6 +389,39 @@
     </section>
     <!-- banner end -->
 
+
+    <!-- blog start -->
+    <section class="blog-wrap section-ptb">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="section-capture">
+                        <div class="section-title">
+                            <div class="section-cont-title">
+                                <h2><span>Nuestro menú</span></h2>
+                                <span class="sub-title">Somos expertos en los sabores</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="blog-slider text-center " id="blog-template">
+                        <div class="row justify-content-center align-content-center">
+                            <div class="col-md-6 align-content-center">
+                                <img src="https://dummyimage.com/600x700/d4d4d4/ffffff&text=menú" class="img-fluid"
+                                    alt="blog-09" />
+                            </div>
+
+                            <div class="col-md-6 align-content-center">
+                                <img src="https://dummyimage.com/600x700/d4d4d4/ffffff&text=menú" class="img-fluid"
+                                    alt="blog-09" />
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- blog end -->
 
 
     <!-- insta start -->
@@ -422,185 +494,89 @@
         </div>
     </section>
 
-
-    <!-- blog start -->
-    <section class="blog-wrap section-ptb">
+    <section class="form-contact">
         <div class="container">
             <div class="row">
                 <div class="col">
                     <div class="section-capture">
                         <div class="section-title">
-                            <div class="section-cont-title">
-                                <h2><span>Latest news</span></h2>
-                                <span class="sub-title">recently story</span>
-                            </div>
+                            <span class="sub-title">¿Tienes alguna duda?</span>
+                            <h2>Contáctanos</h2>
                         </div>
                     </div>
-                    <div class="blog-slider swiper" id="blog-template">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="blog-post">
-                                    <div class="blog-post-wrap">
-                                        <div class="date-time-wrap">
-                                            <span class="date-time"><span>02 January 2023</span></span>
-                                        </div>
-                                        <div class="blog-main-content">
-                                            <div class="blog-main-img">
-                                                <a href="article-post.html" class="blog-img banner-img">
-                                                    <img src="img/blog/blog-09.jpg" class="img-fluid" alt="blog-09" />
-                                                    <span class="blog-icon"><i class="feather-link"></i></span>
-                                                </a>
-                                            </div>
-                                            <div class="blog-post-content">
-                                                <h2 class="blog-title">
-                                                    <a href="article-post.html">Nisi ut aliquid ex ea commodi?</a>
-                                                </h2>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                    <div class="contact-content">
+                        <!-- contact us from start -->
+                        <div class="contact-detail form-warp">
+                            <div class="form-title">
+                                <h6>Escríbenos un mensaje</h6>
                             </div>
-                            <div class="swiper-slide">
-                                <div class="blog-post">
-                                    <div class="blog-post-wrap">
-                                        <div class="date-time-wrap">
-                                            <span class="date-time"><span>06 February 2023</span></span>
-                                        </div>
-                                        <div class="blog-main-content">
-                                            <div class="blog-main-img">
-                                                <a href="article-post.html" class="blog-img banner-img">
-                                                    <img src="img/blog/blog-10.jpg" class="img-fluid" alt="blog-10" />
-                                                    <span class="blog-icon"><i class="feather-link"></i></span>
-                                                </a>
-                                            </div>
-                                            <div class="blog-post-content">
-                                                <h2 class="blog-title">
-                                                    <a href="article-post.html">Wel illum qui dolorem eum fugiat?</a>
-                                                </h2>
-                                            </div>
-                                        </div>
+                            <div class="contact-form-list">
+                                <form method="post">
+                                    <ul class="form-fill">
+                                        <li class="name">
+                                            <label>Nombre</label>
+                                            <input type="text" name="q" autocomplete="name" placeholder="Nombre">
+                                        </li>
+                                        <li class="email">
+                                            <label>Correo</label>
+                                            <input type="email" name="q" autocomplete="email" placeholder="Correo">
+                                        </li>
+                                        <li class="phone number">
+                                            <label>Teléfono</label>
+                                            <input type="tel" name="tel" placeholder="Teléfono">
+                                        </li>
+                                        <li class="message phone number">
+                                            <label>Mensaje</label>
+                                            <textarea rows="10" placeholder="Mensaje"
+                                                class="custom-textarea"></textarea>
+                                        </li>
+                                    </ul>
+                                    <div class="contact-submit">
+                                        <button type="submit" class="btn btn-style2">
+                                            <span>Enviar</span>
+                                        </button>
                                     </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="blog-post">
-                                    <div class="blog-post-wrap">
-                                        <div class="date-time-wrap">
-                                            <span class="date-time"><span>10 March 2023</span></span>
-                                        </div>
-                                        <div class="blog-main-content">
-                                            <div class="blog-main-img">
-                                                <a href="article-post.html" class="blog-img banner-img">
-                                                    <img src="img/blog/blog-11.jpg" class="img-fluid" alt="blog-11" />
-                                                    <span class="blog-icon"><i class="feather-link"></i></span>
-                                                </a>
-                                            </div>
-                                            <div class="blog-post-content">
-                                                <h2 class="blog-title">
-                                                    <a href="article-post.html">Which of us ever undertakes?</a>
-                                                </h2>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="blog-post">
-                                    <div class="blog-post-wrap">
-                                        <div class="date-time-wrap">
-                                            <span class="date-time"><span>14 April 2023</span></span>
-                                        </div>
-                                        <div class="blog-main-content">
-                                            <div class="blog-main-img">
-                                                <a href="article-post.html" class="blog-img banner-img">
-                                                    <img src="img/blog/blog-12.jpg" class="img-fluid" alt="blog-12" />
-                                                    <span class="blog-icon"><i class="feather-link"></i></span>
-                                                </a>
-                                            </div>
-                                            <div class="blog-post-content">
-                                                <h2 class="blog-title">
-                                                    <a href="article-post.html">Who avoids a pain that produces?</a>
-                                                </h2>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="blog-post">
-                                    <div class="blog-post-wrap">
-                                        <div class="date-time-wrap">
-                                            <span class="date-time"><span>20 May 2023</span></span>
-                                        </div>
-                                        <div class="blog-main-content">
-                                            <div class="blog-main-img">
-                                                <a href="article-post.html" class="blog-img banner-img">
-                                                    <img src="img/blog/blog-13.jpg" class="img-fluid" alt="blog-13" />
-                                                    <span class="blog-icon"><i class="feather-link"></i></span>
-                                                </a>
-                                            </div>
-                                            <div class="blog-post-content">
-                                                <h2 class="blog-title">
-                                                    <a href="article-post.html">Where can i get some?</a>
-                                                </h2>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                </form>
                             </div>
                         </div>
+                        <!-- contact us from start -->
+                        <!-- contact get info. start -->
+                        <div class="contact-detail get-info">
+                            <div class="form-title">
+                                <h6>Información de contacto</h6>
+                            </div>
+                            <ul class="contact-info-list">
+                                <li class="ftcon-li">
+                                    <span class="con-icon"><i class="bi bi-geo"></i></span>
+                                    <span class="con-add">
+                                        <span>Dirección del local</span>
+                                    </span>
+                                </li>
+                                <li class="ftcon-li">
+                                    <span class="con-icon"><i class="bi bi-telephone"></i></span>
+                                    <div class="contact-block">
+                                        <a href="tel:+5212341567890" class="con-add">(624) 123 456 7890</a>
+                                    </div>
+                                </li>
+                                <li class="ftcon-li">
+                                    <span class="con-icon"><i class="bi bi-envelope"></i></span>
+                                    <div class="contact-block">
+                                        <a href="mailto:info@cabomunchies.com" class="con-add">info@cabomunchies.com</a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- contact get info. end -->
+                    </div>
+                    <div class="col" style="margin-top: 2rem;">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2059.8151444147406!2d-109.70966735685464!3d23.090748541830486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51532c7132c7%3A0xf09c9724da511bbd!2sBanana%20Marketing%20Group!5e0!3m2!1ses-419!2smx!4v1703711986192!5m2!1ses-419!2smx"
+                            width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- blog end -->
-    <!-- service area start -->
-    <section class="our-service-area section-ptb">
-        <div class="container">
-            <div class="row">
-                <div class="col">
-                    <ul class="single-service">
-                        <li class="service-content">
-                            <div class="ser-block">
-                                <a href="javascript:void(0)"><i class="feather-truck"></i></a>
-                                <div class="service-text">
-                                    <h6>Shipping & return</h6>
-                                    <p>
-                                        If your glasses aren't perfect, return them within 30
-                                        days for a full refund.
-                                    </p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="service-content">
-                            <div class="ser-block">
-                                <a href="javascript:void(0)"><i class="feather-shield"></i></a>
-                                <div class="service-text">
-                                    <h6>Safe payment</h6>
-                                    <p>
-                                        Pay with the world's most popular and secure payment
-                                        methods
-                                    </p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="service-content">
-                            <div class="ser-block">
-                                <a href="javascript:void(0)"><i class="feather-shopping-cart"></i></a>
-                                <div class="service-text">
-                                    <h6>Shop with confidence</h6>
-                                    <p>
-                                        Our buyer protection covers your purchase from click to
-                                        delivery.
-                                    </p>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- service area end -->
+
 </main>

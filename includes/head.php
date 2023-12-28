@@ -31,5 +31,7 @@
     <link rel="stylesheet" type="text/css" href="css/slick.css" />
     <!-- style css -->
     <link rel="stylesheet" type="text/css" href="css/style4.css" />
-    <link rel="stylesheet" type="text/css" href="css/style5.css" />
+    <!-- other-page css -->
+    <link rel="stylesheet" type="text/css" href="css/other-page.css">
+
 </head>

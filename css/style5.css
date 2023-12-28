@@ -310,10 +310,10 @@ button[disabled] {
     color: var(--font-color-header);
     font-size: 16px;
     padding: 13px 30px;
-    background-color: #fed300;
+    background-color: #be1622;
     text-transform: uppercase;
     font-weight: 600;
-    border: 2px solid #fed300;
+    border: 2px solid #be1622;
     border-radius: 0px;
     letter-spacing: 0.5px;
 }
@@ -334,10 +334,10 @@ button[disabled] {
     color: var(--font-color-header);
     font-size: 16px;
     padding: 13px 30px;
-    background-color: #fed300;
+    background-color: #be1622;
     text-transform: uppercase;
     font-weight: 400;
-    border: 2px solid #fed300;
+    border: 2px solid #be1622;
     border-radius: 0px;
     letter-spacing: 0.5px;
     line-height: 1;
@@ -2336,7 +2336,7 @@ a.theme-header-logo img {
     animation-name: backInDown;
 }
 .slider-content .home-slider .slide-image .slider-info-content .slider-text-info span.sub-title {
-    color: #fed300;
+    color: #be1622;
     font-size: 16px;
     margin-bottom: 15px;
     text-transform: uppercase;
@@ -2401,7 +2401,7 @@ a.theme-header-logo img {
     justify-content: space-between;
 }   
 .slider-category2 .banner-content .content-banner span {
-    color: #fed300;
+    color: #be1622;
     font-size: 24px;
     font-weight: 500;
 }
@@ -2420,7 +2420,7 @@ a.theme-header-logo img {
     justify-content: center;
     border: var(--theme-border-color);
     border-radius: 50%;
-    background-color: #fed300;
+    background-color: #be1622;
 }
 .slider-category2 .banner-content .content-banner a:hover {
     color: var(--sti-bgcolor);
@@ -2545,7 +2545,7 @@ a.theme-header-logo img {
     align-items: center;
     justify-content: center;
     border-radius: 100%;
-    background-color: #fed300;
+    background-color: #be1622;
 }
 .custom-text .custom-text-wrapper .custom-width .custom-content .custom-main ul.custom-main-ul li.custom-main-li:hover .custom-area .custom-feature-count span::before {
     color: var(--sti-bgcolor);
@@ -3575,7 +3575,7 @@ a.theme-header-logo img {
     margin-bottom: 15px;
     margin-right: 0px;
     transform: translate(15px);
-    background-color: #fed300;
+    background-color: #be1622;
     line-height: 0;
 }
 .single-product-wrap .product-image .product-action a {
