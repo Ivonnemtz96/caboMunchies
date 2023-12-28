@@ -1,9 +1,9 @@
 <head>
     <meta charset="utf-8" />
-    <meta name="description"
-        content="A best stylish, creative, modern responsive template for different eCommerce business or industries." />
+    <!-- <meta name="description"
+        content="A best stylish, creative, modern responsive template for different eCommerce business or industries." /> -->
     <meta name="keywords"
-        content="food template, bakery products, html, eCommerce html template, responsive, pizza, burger, furniture, mobile, watches, electronics, computers accessories, toys, jewellery, restaurant accessories" />
+        content="cabo munchies, munchies, gomitas, gomitas enchiladas" />
     <meta name="author" content="spacingtech_webify" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- title -->
