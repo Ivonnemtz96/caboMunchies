@@ -406,12 +406,12 @@
                     <div class="blog-slider text-center " id="blog-template">
                         <div class="row justify-content-center align-content-center">
                             <div class="col-md-6 align-content-center">
-                                <img src="https://dummyimage.com/600x700/d4d4d4/ffffff&text=menú" class="img-fluid"
+                                <img src="img/01.jpg" class="img-fluid"
                                     alt="blog-09" />
                             </div>
 
                             <div class="col-md-6 align-content-center">
-                                <img src="https://dummyimage.com/600x700/d4d4d4/ffffff&text=menú" class="img-fluid"
+                                <img src="img/02.jpg" class="img-fluid"
                                     alt="blog-09" />
                             </div>
                         </div>
