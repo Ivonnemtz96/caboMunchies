@@ -152,10 +152,12 @@
                                 <span class="sub-title">Sobre Nosotros</span>
                                 <h2>Cabo Munchies</h2>
                                 <p>
-                                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias commodi esse ex,
-                                    quibusdam vitae assumenda optio eos rerum saepe dolores nulla impedit est, qui
-                                    reiciendis aliquam fuga minus exercitationem eius ipsam enim? Molestiae ex at
-                                    officiis dignissimos neque? Expedita, id.
+                                    Somos una empresa 100% mexicana llamada "CABO MUNCHIES" en honor a uno de los
+                                    destinos favoritos de México nombrada por tener mayor influencia de turismo así como
+                                    oportunidades de empleo, visitada por turistas gracias a sus bellas playas. Nos
+                                    sentimos orgullosos y afortunados de establecer nuestra presencia en este
+                                    distinguido destino. Es este sentimiento de privilegio el que inspira el nacimiento
+                                    de CABOMUNCHIES 🍓.
                                 </p>
                                 <a href="#galeria" class="btn btn-style">Ver galería</a>
                             </div>
@@ -357,11 +359,15 @@
                                 </a>
                             </div>
                             <div class="abt-banner-desc">
-                                <h2>Chamoy artesanal</h2>
+                                <h2>CABOMUNCHIES</h2>
                                 <p class="sub-title">
-                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quaerat consequatur
-                                    praesentium nobis debitis minus ipsam voluptate quasi nemo, ullam facilis, impedit
-                                    provident quod harum reprehenderit, totam hic incidunt temporibus vel.
+                                    Se define como una exquisitez culinaria, específicamente gomitas
+                                    enchiladas, snacks dulces y salseados con chamoy, todos elaborados de manera
+                                    artesanal. <br>
+                                    Igualmente, surge nuestro producto destacado, líder en ventas: el paquete COCADA
+                                    HORCHATA, elaborado con nuestra cocada artesanal de Colima, México. Acompañado por
+                                    nuestro jamoncillo de leche, este conjunto se complementa con nuestra salsa dulce de
+                                    sabor horchata, todo cuidadosamente elaborado de manera artesanal.
                                 </p>
                                 <a href="#contacto" class="btn btn-style">Contactar</a>
                             </div>
@@ -373,11 +379,20 @@
                                 </a>
                             </div>
                             <div class="abt-banner-desc">
-                                <h2>Gomitas enchiladas</h2>
+                                <h2 style="margin-top: 10px;">Las mejores gomitas enchiladas</h2>
                                 <p class="sub-title">
-                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam, impedit nostrum
-                                    perferendis facere sint non hic aliquid ullam ipsum exercitationem ea consequatur
-                                    modi dignissimos maxime repellat, praesentium atque necessitatibus obcaecati.
+                                    Todas nuestras gomitas son enchiladas y salseadas cuidadosamente a mano, cuidando
+                                    cada uno de los detalles para que lleguen hasta sus puertas en perfecto estado. <br>
+
+                                    Nuestras gomitas han sido cuidadosamente creadas, teniendo en cuenta los resultados
+                                    de encuestas para asegurar su atractivo al público. La elaboración del empaque
+                                    también ha sido objeto de detallada planificación, incorporando de manera innovadora
+                                    nuestro chamoy artesanal, elaborado a mano, como un componente integral dentro de
+                                    cada presentación. <br>
+
+                                    Explora y descubre tus gummies favoritas. Todos nuestros productos están diseñados
+                                    tanto para niños como para adultos, llevando un pedacito de Cabo directamente hasta
+                                    la puerta de tu hogar. ¡Sabor, diversión y tradición en cada entrega!
                                 </p>
                                 <a href="#contacto" class="btn btn-style">Contactar</a>
                             </div>
@@ -406,13 +421,11 @@
                     <div class="blog-slider text-center " id="blog-template">
                         <div class="row justify-content-center align-content-center">
                             <div class="col-md-6 align-content-center">
-                                <img src="img/01.jpg" class="img-fluid"
-                                    alt="blog-09" />
+                                <img src="img/01.jpg" class="img-fluid" alt="blog-09" />
                             </div>
 
                             <div class="col-md-6 align-content-center">
-                                <img src="img/02.jpg" class="img-fluid"
-                                    alt="blog-09" />
+                                <img src="img/02.jpg" class="img-fluid" alt="blog-09" />
                             </div>
                         </div>
 
@@ -573,6 +586,59 @@
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2059.8151444147406!2d-109.70966735685464!3d23.090748541830486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51532c7132c7%3A0xf09c9724da511bbd!2sBanana%20Marketing%20Group!5e0!3m2!1ses-419!2smx!4v1703711986192!5m2!1ses-419!2smx"
                             width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="politicas">
+        <div class="section-title" id="politicas">
+            <div class="section-cont-title">
+                <h2><span>Políticas</span></h2>
+            </div>
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-10">
+                        <p style="text-align: justify;">
+                        <ul style="list-style: disc;">
+                            <li>
+                                Órdenes tardan de 1 a 2 días hábiles para ser procesados y/o enviadas. (No incluye días
+                                festivos)
+                                Independientemente del método de envío.
+                            </li>
+                            <li>
+                                Ofrecemos únicamente PRIORITY SHOPPING para asegurar la calidad del producto al llegar a
+                                su
+                                destino
+                                final.
+                            </li>
+                            <li>
+                                Priority shipping solamente asegura que el paquete llegará de 1-3 días después de salir
+                                de los
+                                establecimientos de Cabo Munchies dependiendo tu ubicación.
+                            </li>
+                            <li>
+                                Cabo Munchies no se hace responsable de paquetes perdidos o robados si la paquetería a
+                                confirmado la
+                                entrega en el domicilio proporcionado a la hora de hacer la compra.
+                            </li>
+                            <li>
+                                Puedes solicitar un cambio de dirección (pero no es garantizada) vía WhatsApp al número
+                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información." target="_blank">(624)1176413</a> siempre y cuando el paquete aún no haya sido realizado.
+                            </li>
+                            <li>
+                                Solamente puedes contactar a servicio al cliente por medio de WhatsApp y puede demorar
+                                hasta 24
+                                horas para responder.
+                            </li>
+                            <li>
+                                Cabo Munchies realiza paquetes y contesta mensajes a como llegan dándole la atención y
+                                prioridad
+                                justa y equitativamente a cada cliente.
+                            </li>
+                        </ul>
+                        </p>
                     </div>
                 </div>
             </div>

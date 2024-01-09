@@ -47,6 +47,9 @@
                 <li class="nav-item">
                     <a style="font-size: 1.2rem;" class="nav-link" href="#contacto">Contacto</a>
                 </li>
+                <li class="nav-item">
+                    <a style="font-size: 1.2rem;" class="nav-link" href="#politicas">Políticas</a>
+                </li>
             </ul>
         </div>
     </div>

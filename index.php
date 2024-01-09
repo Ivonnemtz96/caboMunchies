@@ -12,6 +12,7 @@ include('includes/head.php');
         include('modules/index.php');
         include('includes/footer.php');
         include('includes/preloader.php');
+        include('includes/redes.php');
         include('includes/scripts.php');
     ?>
 </body>
