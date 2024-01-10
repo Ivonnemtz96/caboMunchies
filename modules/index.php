@@ -4,8 +4,8 @@
         <div class="home-slider owl-carousel owl-theme" id="home-slider">
             <div class="item active">
                 <div class="slide-image">
-                    <img src="img/slider/01.jpg" class="img-fluid desk-img" alt="cabo munchies" />
-                    <img src="img/slider/01-m.jpg" class="img-fluid mobile-img" alt="cabo munchies" />
+                    <img src="img/slider/04.jpg" class="img-fluid desk-img" alt="cabo munchies" />
+                    <img src="img/slider/04-m.jpg" class="img-fluid mobile-img" alt="cabo munchies" />
                     <div class="container slider-info-content">
                         <div class="row">
                             <div class="col">
@@ -21,8 +21,8 @@
             </div>
             <div class="item">
                 <div class="slide-image">
-                    <img src="img/slider/02.jpg" class="img-fluid desk-img" alt="cabo munchies" />
-                    <img src="img/slider/02-m.jpg" class="img-fluid mobile-img" alt="cabo munchies" />
+                    <img src="img/slider/05.jpg" class="img-fluid desk-img" alt="cabo munchies" />
+                    <img src="img/slider/05-m.jpg" class="img-fluid mobile-img" alt="cabo munchies" />
                     <div class="container slider-info-content">
                         <div class="row">
                             <div class="col">
@@ -42,8 +42,8 @@
             </div>
             <div class="item">
                 <div class="slide-image">
-                    <img src="img/slider/03.jpg?=1" class="img-fluid desk-img" alt="cabo munchies" />
-                    <img src="img/slider/03-m.jpg?=1" class="img-fluid mobile-img" alt="cabo munchies" />
+                    <img src="img/slider/06.jpg?=1" class="img-fluid desk-img" alt="cabo munchies" />
+                    <img src="img/slider/06-m.jpg?=1" class="img-fluid mobile-img" alt="cabo munchies" />
                     <div class="container slider-info-content">
                         <div class="row">
                             <div class="col">
@@ -79,7 +79,7 @@
                         <li class="banner-wrap banner-hover">
                             <div class="box-img">
                                 <a href="#contacto">
-                                    <img src="img/banner/01.jpg" class="img-fluid" alt="Cabo Munchies" />
+                                    <img src="img/banner/10.jpg" class="img-fluid" alt="Cabo Munchies" />
                                 </a>
                             </div>
                             <div class="custom-banner-content">
@@ -90,7 +90,7 @@
                         <li class="banner-wrap banner-hover">
                             <div class="box-img">
                                 <a href="#contacto">
-                                    <img src="img/banner/02.jpg" class="img-fluid" alt="Cabo Munchies" />
+                                    <img src="img/banner/09.jpg" class="img-fluid" alt="Cabo Munchies" />
                                 </a>
                             </div>
                             <div class="custom-banner-content">
@@ -101,18 +101,18 @@
                         <li class="banner-wrap banner-hover">
                             <div class="box-img">
                                 <a href="#contacto">
-                                    <img src="img/banner/03.jpg" class="img-fluid" alt="Cabo Munchies" />
+                                    <img src="img/banner/11.jpg" class="img-fluid" alt="Cabo Munchies" />
                                 </a>
                             </div>
                             <div class="custom-banner-content">
-                                <h2>Frutas</h2>
+                                <h2>Gomitas</h2>
                                 <a href="#contacto" class="banner-link">Contactar</a>
                             </div>
                         </li>
                         <li class="banner-wrap banner-hover">
                             <div class="box-img">
                                 <a href="#contacto">
-                                    <img src="img/banner/04.jpg" class="img-fluid" alt="Cabo Munchies" />
+                                    <img src="img/banner/12.jpg" class="img-fluid" alt="Cabo Munchies" />
                                 </a>
                             </div>
                             <div class="custom-banner-content">
@@ -138,11 +138,11 @@
                                 <a href="#">
                                     <div class="banner-main">
                                         <span class="full-img">
-                                            <img src="img/banner/05.jpg" class="img-fluid" alt="Cabo Munchies">
+                                            <img src="img/banner/13.jpg" class="img-fluid" alt="Cabo Munchies">
                                         </span>
                                     </div>
                                     <div class="banner-side">
-                                        <img src="img/banner/06.jpg" class="img-fluid" alt="Cabo Munchies">
+                                        <img src="img/banner/14.jpg" class="img-fluid" alt="Cabo Munchies">
                                     </div>
                                 </a>
                             </div>
@@ -191,9 +191,9 @@
                                         <!-- product-img start -->
                                         <div class="product-image">
                                             <a href="#" class="pro-img">
-                                                <img src="img/product/01.jpg" class="img-fluid img1"
+                                                <img src="img/product/03.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
-                                                <img src="img/product/02.jpg" class="img-fluid img2"
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
                                                     alt="Cabo Munchies" />
                                             </a>
                                             <!-- product-action end -->
@@ -201,7 +201,7 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a href="#">Nombre de producto</a>
+                                                <a href="#contacto">Cacahuates enchilados</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -215,9 +215,9 @@
                                         <!-- product-img start -->
                                         <div class="product-image">
                                             <a href="#" class="pro-img">
-                                                <img src="img/product/01.jpg" class="img-fluid img1"
+                                                <img src="img/product/04.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
-                                                <img src="img/product/02.jpg" class="img-fluid img2"
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
                                                     alt="Cabo Munchies" />
                                             </a>
                                             <!-- product-action end -->
@@ -227,7 +227,7 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a href="#">Nombre de producto</a>
+                                                <a href="#contacto">Aros durazno</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -241,9 +241,9 @@
                                         <!-- product-img start -->
                                         <div class="product-image">
                                             <a href="#" class="pro-img">
-                                                <img src="img/product/01.jpg" class="img-fluid img1"
+                                                <img src="img/product/05.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
-                                                <img src="img/product/02.jpg" class="img-fluid img2"
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
                                                     alt="Cabo Munchies" />
                                             </a>
                                             <!-- product-action end -->
@@ -253,7 +253,7 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a href="#">Nombre de producto</a>
+                                                <a href="#contacto">Nombre de producto</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -267,9 +267,9 @@
                                         <!-- product-img start -->
                                         <div class="product-image">
                                             <a href="#" class="pro-img">
-                                                <img src="img/product/01.jpg" class="img-fluid img1"
+                                                <img src="img/product/06.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
-                                                <img src="img/product/02.jpg" class="img-fluid img2"
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
                                                     alt="Cabo Munchies" />
                                             </a>
                                             <!-- product-action end -->
@@ -279,7 +279,7 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a href="#">Nombre de producto</a>
+                                                <a href="#contacto">Nombre de producto</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -293,9 +293,9 @@
                                         <!-- product-img start -->
                                         <div class="product-image">
                                             <a href="#" class="pro-img">
-                                                <img src="img/product/01.jpg" class="img-fluid img1"
+                                                <img src="img/product/07.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
-                                                <img src="img/product/02.jpg" class="img-fluid img2"
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
                                                     alt="Cabo Munchies" />
                                             </a>
                                             <!-- product-action end -->
@@ -305,7 +305,7 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a href="#">Nombre de producto</a>
+                                                <a href="#contacto">Manguitos mojados</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -319,9 +319,9 @@
                                         <!-- product-img start -->
                                         <div class="product-image">
                                             <a href="#" class="pro-img">
-                                                <img src="img/product/01.jpg" class="img-fluid img1"
+                                                <img src="img/product/08.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
-                                                <img src="img/product/02.jpg" class="img-fluid img2"
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
                                                     alt="Cabo Munchies" />
                                             </a>
                                             <!-- product-action end -->
@@ -331,7 +331,111 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a href="#">Nombre de producto</a>
+                                                <a href="#contacto">Nombre de producto</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="#" class="pro-img">
+                                                <img src="img/product/09.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a href="#contacto">Gusanitos</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="#" class="pro-img">
+                                                <img src="img/product/10.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a href="#contacto">Nombre de producto</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="#" class="pro-img">
+                                                <img src="img/product/11.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a href="#contacto">Sandillitas gummies</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="#" class="pro-img">
+                                                <img src="img/product/12.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a href="#contacto">Nombre de producto</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -355,7 +459,7 @@
                         <div class="banner-grid">
                             <div class="single-banner banner-hover">
                                 <a href="javascript:void(0)" class="banner-img">
-                                    <img src="img/banner/07.jpg" class="img-fluid" alt="banner-03" />
+                                    <img src="img/banner/15.jpg" class="img-fluid" alt="banner-03" />
                                 </a>
                             </div>
                             <div class="abt-banner-desc">
@@ -375,7 +479,7 @@
                         <div class="banner-grid">
                             <div class="single-banner banner-hover">
                                 <a href="javascript:void(0)" class="banner-img">
-                                    <img src="img/banner/08.jpg" class="img-fluid" alt="banner-04" />
+                                    <img src="img/banner/16.jpg" class="img-fluid" alt="banner-04" />
                                 </a>
                             </div>
                             <div class="abt-banner-desc">
@@ -444,60 +548,60 @@
                 <div class="col">
                     <div class="section-capture">
                         <div class="section-title">
-                            <span class="sub-title">Our instagram</span>
-                            <h2>Instagram shop</h2>
+                            <span class="sub-title">Síguenos en Instagram</span>
+                            <h2>Galería</h2>
                         </div>
                     </div>
                     <div class="insta-post">
                         <ul class="insta-ul">
                             <li class="insta-li">
-                                <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/01.jpg" class="img-fluid" alt="Cabo Munchies">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                    <img src="img/insta/11.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
-                                <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/02.jpg" class="img-fluid" alt="Cabo Munchies">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                    <img src="img/insta/20.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
-                                <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/03.jpg" class="img-fluid" alt="Cabo Munchies">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                    <img src="img/insta/13.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
-                                <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/04.jpg" class="img-fluid" alt="Cabo Munchies">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                    <img src="img/insta/14.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
-                                <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/05.jpg" class="img-fluid" alt="Cabo Munchies">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                    <img src="img/insta/15.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
-                                <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/06.jpg" class="img-fluid" alt="Cabo Munchies">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                    <img src="img/insta/16.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
-                                <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/07.jpg" class="img-fluid" alt="Cabo Munchies">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                    <img src="img/insta/17.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
-                                <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/08.jpg" class="img-fluid" alt="Cabo Munchies">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                    <img src="img/insta/18.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
-                                <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/09.jpg?=1" class="img-fluid" alt="Cabo Munchies">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                    <img src="img/insta/19.jpg?=1" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
-                                <a href="javascript:void(0)" class="banner-hover">
-                                    <img src="img/insta/10.jpg" class="img-fluid" alt="Cabo Munchies">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                    <img src="img/insta/12.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                         </ul>
@@ -568,7 +672,7 @@
                                 <li class="ftcon-li">
                                     <span class="con-icon"><i class="bi bi-telephone"></i></span>
                                     <div class="contact-block">
-                                        <a href="tel:+5212341567890" class="con-add">(624) 123 456 7890</a>
+                                        <a href="tel:+526241176413" class="con-add">(624)1176413</a>
                                     </div>
                                 </li>
                                 <li class="ftcon-li">
