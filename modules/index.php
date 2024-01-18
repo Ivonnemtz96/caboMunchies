@@ -78,46 +78,54 @@
                     <ul class="banner-block">
                         <li class="banner-wrap banner-hover">
                             <div class="box-img">
-                                <a href="#contacto">
-                                    <img src="img/banner/10.jpg" class="img-fluid" alt="Cabo Munchies" />
+                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                    target="_blank">
+                                    <img src="img/banner/17.jpg" class="img-fluid" alt="Cabo Munchies" />
                                 </a>
                             </div>
                             <div class="custom-banner-content">
-                                <h2>Mangos</h2>
-                                <a href="#contacto" class="banner-link">Contactar</a>
+                                <h2>Cocadas</h2>
+                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                    target="_blank" class="banner-link">Contactar</a>
                             </div>
                         </li>
                         <li class="banner-wrap banner-hover">
                             <div class="box-img">
-                                <a href="#contacto">
+                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                    target="_blank">
                                     <img src="img/banner/09.jpg" class="img-fluid" alt="Cabo Munchies" />
                                 </a>
                             </div>
                             <div class="custom-banner-content">
                                 <h2>Sandía</h2>
-                                <a href="#contacto" class="banner-link">Contactar</a>
+                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                    target="_blank" class="banner-link">Contactar</a>
                             </div>
                         </li>
                         <li class="banner-wrap banner-hover">
                             <div class="box-img">
-                                <a href="#contacto">
+                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                    target="_blank">
                                     <img src="img/banner/11.jpg" class="img-fluid" alt="Cabo Munchies" />
                                 </a>
                             </div>
                             <div class="custom-banner-content">
                                 <h2>Gomitas</h2>
-                                <a href="#contacto" class="banner-link">Contactar</a>
+                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                    target="_blank" class="banner-link">Contactar</a>
                             </div>
                         </li>
                         <li class="banner-wrap banner-hover">
                             <div class="box-img">
-                                <a href="#contacto">
+                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                    target="_blank">
                                     <img src="img/banner/12.jpg" class="img-fluid" alt="Cabo Munchies" />
                                 </a>
                             </div>
                             <div class="custom-banner-content">
                                 <h2>Cacahuates</h2>
-                                <a href="#contacto" class="banner-link">Contactar</a>
+                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                    target="_blank" class="banner-link">Contactar</a>
                             </div>
                         </li>
                     </ul>
@@ -178,7 +186,7 @@
                         <div class="section-capture">
                             <div class="section-title">
                                 <h2><span style="color: #fff;">Nuestros productos</span></h2>
-                                <span class="sub-title">No te quedes con las ganas</span>
+                                <span class="sub-title" style="color: #fff;">No te quedes con las ganas</span>
                             </div>
                         </div>
                     </div>
@@ -190,7 +198,8 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="#" class="pro-img">
+                                            <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                                target="_blank" class="pro-img">
                                                 <img src="img/product/03.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
@@ -201,7 +210,9 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a href="#contacto">Cacahuates enchilados</a>
+                                                <a style="color: #fff;"
+                                                    href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                                    target="_blank">Cacahuates enchilados</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -214,7 +225,8 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="#" class="pro-img">
+                                            <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                                target="_blank" class="pro-img">
                                                 <img src="img/product/04.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
@@ -227,7 +239,9 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a href="#contacto">Aros durazno</a>
+                                                <a style="color: #fff;"
+                                                    href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                                    target="_blank">Aros durazno</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -240,10 +254,11 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="#" class="pro-img">
-                                                <img src="img/product/05.jpg" class="img-fluid img1"
+                                            <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                                target="_blank" class="pro-img">
+                                                <img src="img/product/14.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
-                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                <img src="img/product/15.jpg" class="img-fluid img2"
                                                     alt="Cabo Munchies" />
                                             </a>
                                             <!-- product-action end -->
@@ -253,46 +268,22 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a href="#contacto">Nombre de producto</a>
+                                                <a style="color: #fff;"
+                                                    href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                                    target="_blank">Cocadas</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
                                     </div>
                                     <!-- product end -->
                                 </div>
-
                                 <div class="swiper-slide">
                                     <!-- product start -->
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="#" class="pro-img">
-                                                <img src="img/product/06.jpg" class="img-fluid img1"
-                                                    alt="Cabo Munchies" />
-                                                <img src="img/product/13.jpg" class="img-fluid img2"
-                                                    alt="Cabo Munchies" />
-                                            </a>
-                                            <!-- product-action end -->
-                                        </div>
-                                        <!-- product-img end -->
-                                        <!-- product-content start -->
-                                        <div class="product-content">
-                                            <!-- product-title start -->
-                                            <h6>
-                                                <a href="#contacto">Nombre de producto</a>
-                                            </h6>
-                                        </div>
-                                        <!-- product-content end -->
-                                    </div>
-                                    <!-- product end -->
-                                </div>
-
-                                <div class="swiper-slide">
-                                    <!-- product start -->
-                                    <div class="single-product-wrap">
-                                        <!-- product-img start -->
-                                        <div class="product-image">
-                                            <a href="#" class="pro-img">
+                                            <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                                target="_blank" class="pro-img">
                                                 <img src="img/product/07.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
@@ -305,46 +296,22 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a href="#contacto">Manguitos mojados</a>
+                                                <a style="color: #fff;"
+                                                    href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                                    target="_blank">Manguitos mojados</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
                                     </div>
                                     <!-- product end -->
                                 </div>
-
                                 <div class="swiper-slide">
                                     <!-- product start -->
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="#" class="pro-img">
-                                                <img src="img/product/08.jpg" class="img-fluid img1"
-                                                    alt="Cabo Munchies" />
-                                                <img src="img/product/13.jpg" class="img-fluid img2"
-                                                    alt="Cabo Munchies" />
-                                            </a>
-                                            <!-- product-action end -->
-                                        </div>
-                                        <!-- product-img end -->
-                                        <!-- product-content start -->
-                                        <div class="product-content">
-                                            <!-- product-title start -->
-                                            <h6>
-                                                <a href="#contacto">Nombre de producto</a>
-                                            </h6>
-                                        </div>
-                                        <!-- product-content end -->
-                                    </div>
-                                    <!-- product end -->
-                                </div>
-
-                                <div class="swiper-slide">
-                                    <!-- product start -->
-                                    <div class="single-product-wrap">
-                                        <!-- product-img start -->
-                                        <div class="product-image">
-                                            <a href="#" class="pro-img">
+                                            <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                                target="_blank" class="pro-img">
                                                 <img src="img/product/09.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
@@ -357,7 +324,9 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a href="#contacto">Gusanitos</a>
+                                                <a style="color: #fff;"
+                                                    href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                                    target="_blank">Panditas infierno</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -370,33 +339,8 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="#" class="pro-img">
-                                                <img src="img/product/10.jpg" class="img-fluid img1"
-                                                    alt="Cabo Munchies" />
-                                                <img src="img/product/13.jpg" class="img-fluid img2"
-                                                    alt="Cabo Munchies" />
-                                            </a>
-                                            <!-- product-action end -->
-                                        </div>
-                                        <!-- product-img end -->
-                                        <!-- product-content start -->
-                                        <div class="product-content">
-                                            <!-- product-title start -->
-                                            <h6>
-                                                <a href="#contacto">Nombre de producto</a>
-                                            </h6>
-                                        </div>
-                                        <!-- product-content end -->
-                                    </div>
-                                    <!-- product end -->
-                                </div>
-
-                                <div class="swiper-slide">
-                                    <!-- product start -->
-                                    <div class="single-product-wrap">
-                                        <!-- product-img start -->
-                                        <div class="product-image">
-                                            <a href="#" class="pro-img">
+                                            <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                                target="_blank" class="pro-img">
                                                 <img src="img/product/11.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
@@ -409,33 +353,9 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a href="#contacto">Sandillitas gummies</a>
-                                            </h6>
-                                        </div>
-                                        <!-- product-content end -->
-                                    </div>
-                                    <!-- product end -->
-                                </div>
-
-                                <div class="swiper-slide">
-                                    <!-- product start -->
-                                    <div class="single-product-wrap">
-                                        <!-- product-img start -->
-                                        <div class="product-image">
-                                            <a href="#" class="pro-img">
-                                                <img src="img/product/12.jpg" class="img-fluid img1"
-                                                    alt="Cabo Munchies" />
-                                                <img src="img/product/13.jpg" class="img-fluid img2"
-                                                    alt="Cabo Munchies" />
-                                            </a>
-                                            <!-- product-action end -->
-                                        </div>
-                                        <!-- product-img end -->
-                                        <!-- product-content start -->
-                                        <div class="product-content">
-                                            <!-- product-title start -->
-                                            <h6>
-                                                <a href="#contacto">Nombre de producto</a>
+                                                <a style="color: #fff;"
+                                                    href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                                    target="_blank">Sandillitas gummies</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -450,6 +370,7 @@
         </div>
     </section>
     <!-- product-tab end -->
+
     <!-- banner start -->
     <section class="banner-area section-ptb">
         <div class="container">
@@ -473,13 +394,14 @@
                                     nuestro jamoncillo de leche, este conjunto se complementa con nuestra salsa dulce de
                                     sabor horchata, todo cuidadosamente elaborado de manera artesanal.
                                 </p>
-                                <a href="#contacto" class="btn btn-style">Contactar</a>
+                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                    target="_blank" class="btn btn-style">Contactar</a>
                             </div>
                         </div>
                         <div class="banner-grid">
                             <div class="single-banner banner-hover">
-                                <a href="javascript:void(0)" class="banner-img">
-                                    <img src="img/banner/16.jpg" class="img-fluid" alt="banner-04" />
+                                <a href="javascript:void(0)" class="banner-img" style="margin-top: 15px;">
+                                    <img src="img/banner/17.jpg" class="img-fluid" alt="banner-04" />
                                 </a>
                             </div>
                             <div class="abt-banner-desc">
@@ -498,7 +420,8 @@
                                     tanto para niños como para adultos, llevando un pedacito de Cabo directamente hasta
                                     la puerta de tu hogar. ¡Sabor, diversión y tradición en cada entrega!
                                 </p>
-                                <a href="#contacto" class="btn btn-style">Contactar</a>
+                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                    target="_blank" class="btn btn-style">Contactar</a>
                             </div>
                         </div>
                     </div>
@@ -509,7 +432,7 @@
     <!-- banner end -->
 
 
-    <!-- blog start -->
+    <!-- MEnú -->
     <section class="blog-wrap section-ptb">
         <div class="container" id="menu">
             <div class="row">
@@ -538,7 +461,7 @@
             </div>
         </div>
     </section>
-    <!-- blog end -->
+    <!-- Menú -->
 
 
     <!-- insta start -->
@@ -555,52 +478,62 @@
                     <div class="insta-post">
                         <ul class="insta-ul">
                             <li class="insta-li">
-                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank"
+                                    class="banner-hover">
                                     <img src="img/insta/11.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
-                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank"
+                                    class="banner-hover">
                                     <img src="img/insta/20.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
-                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
-                                    <img src="img/insta/13.jpg" class="img-fluid" alt="Cabo Munchies">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank"
+                                    class="banner-hover">
+                                    <img src="img/insta/21.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
-                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank"
+                                    class="banner-hover">
                                     <img src="img/insta/14.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
-                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank"
+                                    class="banner-hover">
                                     <img src="img/insta/15.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
-                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank"
+                                    class="banner-hover">
                                     <img src="img/insta/16.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
-                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank"
+                                    class="banner-hover">
                                     <img src="img/insta/17.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
-                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank"
+                                    class="banner-hover">
                                     <img src="img/insta/18.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
-                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank"
+                                    class="banner-hover">
                                     <img src="img/insta/19.jpg?=1" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
                             <li class="insta-li">
-                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank" class="banner-hover">
+                                <a href="https://www.instagram.com/cabomunchiessjc/" target="_blank"
+                                    class="banner-hover">
                                     <img src="img/insta/12.jpg" class="img-fluid" alt="Cabo Munchies">
                                 </a>
                             </li>
@@ -628,26 +561,34 @@
                                 <h6>Escríbenos un mensaje</h6>
                             </div>
                             <div class="contact-form-list">
-                                <form method="post">
+                                <form method="POST" action="/php/contact.php">
                                     <ul class="form-fill">
                                         <li class="name">
                                             <label>Nombre</label>
-                                            <input type="text" name="q" autocomplete="name" placeholder="Nombre">
+                                            <input type="text" name="nombre" autocomplete="name" placeholder="Nombre"
+                                                required>
                                         </li>
                                         <li class="email">
                                             <label>Correo</label>
-                                            <input type="email" name="q" autocomplete="email" placeholder="Correo">
+                                            <input type="email" name="email" autocomplete="email" placeholder="Correo"
+                                                required>
                                         </li>
                                         <li class="phone number">
                                             <label>Teléfono</label>
-                                            <input type="tel" name="tel" placeholder="Teléfono">
+                                            <input type="tel" name="tel" placeholder="Teléfono" required>
                                         </li>
                                         <li class="message phone number">
                                             <label>Mensaje</label>
-                                            <textarea rows="10" placeholder="Mensaje"
+                                            <textarea rows="10" placeholder="Mensaje" name="msj" required
                                                 class="custom-textarea"></textarea>
                                         </li>
                                     </ul>
+                                    <div class="row" style="margin-bottom: 3rem; margin-top:3rem;">
+                                        <div class="col-12 col-md-5">
+                                            <div class="g-recaptcha"
+                                                data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required></div>
+                                        </div>
+                                    </div>
                                     <div class="contact-submit">
                                         <button type="submit" class="btn btn-style2">
                                             <span>Enviar</span>
@@ -672,13 +613,23 @@
                                 <li class="ftcon-li">
                                     <span class="con-icon"><i class="bi bi-telephone"></i></span>
                                     <div class="contact-block">
-                                        <a href="tel:+526241176413" class="con-add">(624)1176413</a>
+                                        <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                            target="_blank" class="con-add">(624)1176413</a>
                                     </div>
                                 </li>
                                 <li class="ftcon-li">
                                     <span class="con-icon"><i class="bi bi-envelope"></i></span>
                                     <div class="contact-block">
                                         <a href="mailto:info@cabomunchies.com" class="con-add">info@cabomunchies.com</a>
+                                    </div>
+                                </li>
+
+                                <li class="ftcon-li">
+                                    <span class="con-icon"><i class="bi bi-clock"></i></span>
+                                    <div class="contact-block">
+                                        <h6>Horario de atención</h6>
+                                        <span>9:00am - 05:00pm</span>
+                                        <h6><b>Solo WhatsApp</b></h6>
                                     </div>
                                 </li>
                             </ul>
@@ -729,7 +680,9 @@
                             </li>
                             <li>
                                 Puedes solicitar un cambio de dirección (pero no es garantizada) vía WhatsApp al número
-                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información." target="_blank">(624)1176413</a> siempre y cuando el paquete aún no haya sido realizado.
+                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                    target="_blank">(624)1176413</a> siempre y cuando el paquete aún no haya sido
+                                realizado.
                             </li>
                             <li>
                                 Solamente puedes contactar a servicio al cliente por medio de WhatsApp y puede demorar

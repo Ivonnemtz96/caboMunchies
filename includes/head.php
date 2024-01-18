@@ -1,10 +1,8 @@
 <head>
     <meta charset="utf-8" />
-    <!-- <meta name="description"
-        content="A best stylish, creative, modern responsive template for different eCommerce business or industries." /> -->
-    <meta name="keywords"
-        content="cabo munchies, munchies, gomitas, gomitas enchiladas" />
-    <meta name="author" content="spacingtech_webify" />
+    <meta name="description"
+        content="Somos una empresa 100% mexicana llamada CABO MUNCHIES en honor a uno de los destinos favoritos de México nombrada por tener mayor influencia de turismo así como oportunidades de empleo, visitada por turistas gracias a sus bellas playas. " />
+    <meta name="keywords" content="cabo munchies, munchies, gomitas, gomitas enchiladas, los cabos munchies" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- title -->
     <title>Cabo Munchies</title>
@@ -33,5 +31,8 @@
     <link rel="stylesheet" type="text/css" href="css/style4.css" />
     <!-- other-page css -->
     <link rel="stylesheet" type="text/css" href="css/other-page.css">
+
+    <!-- captcha -->
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 </head>

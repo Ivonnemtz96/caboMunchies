@@ -11,6 +11,11 @@
                             <span class="code-text">Cabo Munchies</span>
                         </p>
                     </li>
+                    <li>
+                        <p>
+                            <span  style="color: #fff;" >Solo WhatsApp</span>
+                        </p>
+                    </li>
                     <!-- notification discount end -->
                 </ul>
             </div>
@@ -20,7 +25,7 @@
 <!-- top-notification-bar end -->
 <!-- header start -->
 
-<!-- header logo end -->
+<!-- Nav -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top ">
     <div class="container-fluid">
         <a class="navbar-brand" href="/">
@@ -33,7 +38,8 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item">
-                    <a style="font-size: 1.2rem;" class="nav-link active" aria-current="page" href="index.php">Inicio</a>
+                    <a style="font-size: 1.2rem;" class="nav-link active" aria-current="page"
+                        href="index.php">Inicio</a>
                 </li>
                 <li class="nav-item">
                     <a style="font-size: 1.2rem;" class="nav-link" href="#nosotros">Nosotros</a>
