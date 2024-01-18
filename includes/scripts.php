@@ -22,3 +22,5 @@
 <script src="js/counter.js"></script>
 <!-- main js -->
 <script src="js/main4.js"></script>
+<!-- main js -->
+<script src="js/main.js"></script>

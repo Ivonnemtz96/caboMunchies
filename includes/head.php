@@ -7,7 +7,7 @@
     <!-- title -->
     <title>Cabo Munchies</title>
     <!-- favicon -->
-    <link rel="icon" type="image/x-icon" href="img/logo/favicon.png" />
+    <link rel="icon" type="image/x-icon" href="/img/logo/favicon.png" />
     <!-- bootstrap css -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
     <!-- magnific-popup css -->
@@ -31,6 +31,8 @@
     <link rel="stylesheet" type="text/css" href="css/style4.css" />
     <!-- other-page css -->
     <link rel="stylesheet" type="text/css" href="css/other-page.css">
+     <!-- product-page css -->
+     <link rel="stylesheet" type="text/css" href="css/product-page.css">
 
     <!-- captcha -->
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
