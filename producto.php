@@ -13,6 +13,7 @@ include('includes/head.php');
         include('includes/preloader.php');
         include('includes/redes.php');
         include('includes/scripts.php');
+        include('includes/btn-pago.php');
     ?>
 </body>
 

@@ -211,7 +211,7 @@
                                             <!-- product-title start -->
                                             <h6>
                                                 <a style="color: #fff;"
-                                                    href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
+                                                    href="producto.php?id=1"
                                                     target="_blank">Cacahuates enchilados</a>
                                             </h6>
                                         </div>

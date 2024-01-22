@@ -1,0 +1,170 @@
+[
+    {
+      "id": 0,
+      "nombre": "Manguitos Mojados",
+      "precio": 80,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/0.jpg"
+    },
+    {
+      "id": 1,
+      "nombre": "Aros durazno",
+      "precio": 85,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/1.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Gusanitos",
+      "precio": 85,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/2.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Eskwinklotes",
+      "precio": 85,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/3.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Life Saversgummies",
+      "precio": 135,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/4.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Sour Patch Kids",
+      "precio": 135,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/5.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Skittles classics",
+      "precio": 135,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/6.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Skittles gummies",
+      "precio": 135,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/7.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Sandillitas gummies",
+      "precio": 85,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/8.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Panditas infiernito",
+      "precio": 85,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/9.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Sandía Pops 2 pack",
+      "precio": 65.65,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/10.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Rockaleta 2 pack",
+      "precio": 75,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/11.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Cocada",
+      "precio": 60,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/12.jpg"
+    },
+    {
+      "id": 13,
+      "nombre": "Aros de Sandía",
+      "precio": 135,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/13.jpg"
+    },
+    {
+      "id": 14,
+      "nombre": "Horchata Bundle Cabo",
+      "precio": 125,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/14.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "Dulce de leche. Jamoncillo",
+      "precio": 60,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/15.jpg"
+    },
+    {
+      "id": 16,
+      "nombre": "Manita Pop / Dip. Salsa",
+      "precio": 42.50,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/16.jpg"
+    },
+    {
+      "id": 17,
+      "nombre": "Bubbaloo gum infiernito",
+      "precio": 25,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/17.jpg"
+    },
+    {
+      "id": 18,
+      "nombre": "Cacahuates enchilados 5 oz",
+      "precio": 85,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/18.jpg"
+    },
+    {
+      "id": 19,
+      "nombre": "Borrachitos en lechera",
+      "precio": 45.50,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/19.jpg"
+    },
+    {
+      "id": 20,
+      "nombre": "Bottle chamoy 250 ml.",
+      "precio": 75,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/20.jpg"
+    },
+    {
+      "id": 21,
+      "nombre": "Chamoy pasta",
+      "precio": 120,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/21.jpg"
+    },
+    {
+      "id": 22,
+      "nombre": "Cabo chilito",
+      "precio": 100,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/22.jpg"
+    },
+    {
+      "id": 23,
+      "nombre": "Cabo fiesta MIX",
+      "precio": 85,
+      "descripcion": "Lorem",
+      "imagen": "/img/product/23.jpg"
+    }
+  ]  
