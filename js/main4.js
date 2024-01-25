@@ -184,18 +184,22 @@ $(window).on('load',function(){
     var swiper = new Swiper('.swiper#special-category', {
         rewind: true,
         slidesPerView: 3,
-        spaceBetween: 30,
         autoplay: true,
-        autoplayTimeout: 5000,
+        autoplayTimeout: 1000,
         autoplayHoverPause: true,
+        navigation:true,
+        pagination:true,
         grid: {
             rows: 2,
             fill: 'row' | 'column'
         },
         navigation: {
-            nextEl: '.swiper-next',
-            prevEl: '.swiper-prev',
-        },
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+          },
+        pagination: {
+            el: '.swiper-pagination',
+          },
         breakpoints: {
             0: {
                 slidesPerView: 1,

@@ -225,9 +225,11 @@ $(window).on('load',function(){
     ==============================*/
     var swiper = new Swiper('.swiper#special-category', {
         rewind: true,
-        slidesPerView: 4,
+        slidesPerView: 5,
         spaceBetween: 30,
-        autoplay: true,
+        autoplay: false,
+        navigation:true,
+        pagination: true,
         autoplayTimeout: 5000,
         autoplayHoverPause: true,
         grid: {

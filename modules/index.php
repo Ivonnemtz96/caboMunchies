@@ -178,7 +178,7 @@
     <!-- custom-text end -->
 
     <!-- product-tab start -->
-    <section class="special-category collection-category-template section-ptb" style="background-color: #000;">
+    <section class="special-category collection-category-template section-ptb" style="background-color: #a1a1a1;">
         <div class="container">
             <div class="row">
                 <div class="col">
@@ -198,8 +198,7 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                                target="_blank" class="pro-img">
+                                            <a href="producto.php?id=18" class="pro-img">
                                                 <img src="img/product/03.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
@@ -210,9 +209,9 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a style="color: #fff;"
-                                                    href="producto.php?id=1"
-                                                    target="_blank">Cacahuates enchilados</a>
+                                                <a style="color: #fff;" href="producto.php?id=18">
+                                                    Cacahuates enchilados
+                                                </a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -225,8 +224,7 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                                target="_blank" class="pro-img">
+                                            <a href="producto.php?id=1" class="pro-img">
                                                 <img src="img/product/04.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
@@ -239,9 +237,7 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a style="color: #fff;"
-                                                    href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                                    target="_blank">Aros durazno</a>
+                                                <a style="color: #fff;" href="producto.php?id=1">Aros durazno</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -254,8 +250,7 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                                target="_blank" class="pro-img">
+                                            <a href="producto.php?id=12" class="pro-img">
                                                 <img src="img/product/14.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/15.jpg" class="img-fluid img2"
@@ -268,9 +263,7 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a style="color: #fff;"
-                                                    href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                                    target="_blank">Cocadas</a>
+                                                <a style="color: #fff;" href="producto.php?id=12">Cocadas</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -282,8 +275,7 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                                target="_blank" class="pro-img">
+                                            <a href="producto.php?id=0" class="pro-img">
                                                 <img src="img/product/07.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
@@ -296,9 +288,7 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a style="color: #fff;"
-                                                    href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                                    target="_blank">Manguitos mojados</a>
+                                                <a style="color: #fff;" href="producto.php?id=0">Manguitos mojados</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -310,8 +300,7 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                                target="_blank" class="pro-img">
+                                            <a href="producto.php?id=9" class="pro-img">
                                                 <img src="img/product/09.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
@@ -324,9 +313,7 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a style="color: #fff;"
-                                                    href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                                    target="_blank">Panditas infierno</a>
+                                                <a style="color: #fff;" href="producto.php?id=9">Panditas infiernito</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -339,8 +326,7 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                                target="_blank" class="pro-img">
+                                            <a href="producto.php?id=8" class="pro-img">
                                                 <img src="img/product/11.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
@@ -353,9 +339,137 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a style="color: #fff;"
-                                                    href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                                    target="_blank">Sandillitas gummies</a>
+                                                <a style="color: #fff;" href="producto.php?id=8">Sandillitas gummies</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="producto.php?id=8" class="pro-img">
+                                                <img src="img/product/11.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a style="color: #fff;" href="producto.php?id=8">Sandillitas gummies</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="producto.php?id=8" class="pro-img">
+                                                <img src="img/product/11.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a style="color: #fff;" href="producto.php?id=8">Sandillitas gummies</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="producto.php?id=8" class="pro-img">
+                                                <img src="img/product/11.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a style="color: #fff;" href="producto.php?id=8">Sandillitas gummies</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="producto.php?id=8" class="pro-img">
+                                                <img src="img/product/11.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a style="color: #fff;" href="producto.php?id=8">Sandillitas gummies</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="producto.php?id=8" class="pro-img">
+                                                <img src="img/product/11.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a style="color: #fff;" href="producto.php?id=8">Sandillitas gummies</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -363,6 +477,11 @@
                                     <!-- product end -->
                                 </div>
                             </div>
+
+                            <div style="color:red !important" class="swiper-pagination"></div>
+                            <!-- If we need navigation buttons -->
+                            <div class="swiper-button-next"></div>
+                            <div class="swiper-button-prev"></div>
                         </div>
                     </div>
                 </div>

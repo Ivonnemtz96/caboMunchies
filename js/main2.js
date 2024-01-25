@@ -183,9 +183,11 @@ $(window).on('load',function(){
         rewind: true,
         slidesPerView: 4,
         spaceBetween: 30,
-        autoplay: true,
+        autoplay: false,
         autoplayTimeout: 5000,
         autoplayHoverPause: true,
+        navigation: true,
+        pagination:true,
         grid: {
             rows: 1,
             fill: 'row' | 'column'
@@ -244,7 +246,7 @@ $(window).on('load',function(){
                 spaceBetween: 30
             },
             1024: {
-                slidesPerView: 3,
+                slidesPerView: 4,
                 grid: {
                     rows: 1,
                     fill: 'row' | 'column'
@@ -269,9 +271,11 @@ $(window).on('load',function(){
         rewind: true,
         slidesPerView: 4,
         spaceBetween: 30,
-        autoplay: true,
+        autoplay: false,
         autoplayTimeout: 5000,
         autoplayHoverPause: true,
+        navigation: true,
+        pagination:true,
         grid: {
             rows: 1,
             fill: 'row' | 'column'
@@ -330,7 +334,7 @@ $(window).on('load',function(){
                 spaceBetween: 30
             },
             1024: {
-                slidesPerView: 3,
+                slidesPerView: 4,
                 grid: {
                     rows: 1,
                     fill: 'row' | 'column'
