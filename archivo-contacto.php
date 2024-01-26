@@ -8,9 +8,9 @@ session_start();
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-require_once($_SERVER["DOCUMENT_ROOT"] . "/munchies/php/Exception.php");
-require_once($_SERVER["DOCUMENT_ROOT"] . "/munchies/php/PHPMailer.php");
-require_once($_SERVER["DOCUMENT_ROOT"] . "/munchies/php/SMTP.php");
+require_once($_SERVER["DOCUMENT_ROOT"] . "/php/Exception.php");
+require_once($_SERVER["DOCUMENT_ROOT"] . "/php/PHPMailer.php");
+require_once($_SERVER["DOCUMENT_ROOT"] . "/php/SMTP.php");
 
 //Create an instance; passing `true` enables exceptions
 extract($_REQUEST);
@@ -34,18 +34,18 @@ try {
     //Server settings
     $mail->SMTPDebug = 0;                                       //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'mail.bananagroup.mx';                   //Set the SMTP server to send through
+    $mail->Host       = 'mail.loscabosmunchies.com';                   //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'seo@bananagroup.mx';    //SMTP username
-    $mail->Password   = 'Banana2023#';                        //SMTP password
+    $mail->Username   = 'info@loscabosmunchies.com';    //SMTP username
+    $mail->Password   = 'h4Wmz0StGg';                        //SMTP password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;                                  //Enable implicit TLS encryption
     $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //MANDAMOS EL NOMBRE EN UNA VARIABLE PARA PODER AGREGARLE LAA COMILLA SIMPLE
     $slh = "Los Cabos Munchies";
     //Recipients
-    $mail->setFrom('seo@bananagroup.mx', $slh); //QUIEN MANDA, CON EL NOMBRE
-    $mail->addAddress("ivonne.mtz.manzo@gmail.com", $name); //QUIEN RECIBE
+    $mail->setFrom('info@loscabosmunchies.com', $slh); //QUIEN MANDA, CON EL NOMBRE
+    $mail->addAddress($email, $name); //QUIEN RECIBE
 
     //Content
     $mail->isHTML(true); //ACEPTAR HTML
@@ -155,15 +155,15 @@ try {
                                   <div style="width:100%; display: inline-block;">
           
                                   <div class="cuerpo-mensaje" style="margin-bottom: 30px;">
+                                 
                                   <p style="font-family: sans-serif; font-size: 20px; font-weight: normal; margin: 0; Margin-bottom: 15px;">Gracias por tu compra <strong>'.$name.'</strong></p>
+                                  <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;">
+                                    Uno de nuestros vendedores se estará poniendo en contacto contigo para el seguimiento de tu compra.
+                                  </p>
                                   <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;">Producto: <strong>'.$producto.'</strong></p>
                                   <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;">Cantidad: <strong>'.$cantidad.'</strong></p>
                                   <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;">Total: <strong>$'.$amount.'</strong></p>
-                                  <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;">
-                                       Uno de nuestros vendedores se estará poniendo en contacto contigo para el seguimiento de tu compra
-                                  </p>
                                   <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;">¡Hasta pronto!</p>
-                                    
                                       <p class="footer">
                                       Todos los derechos reservados. Desarrollado por Banana Group Marketing 2024.
                                       </p>
@@ -180,12 +180,12 @@ try {
           ';
     $mail->CharSet = 'UTF-8';
     $mail->send();
-    require_once($_SERVER["DOCUMENT_ROOT"] . "/munchies/adminMail.php");
+    require_once($_SERVER["DOCUMENT_ROOT"] . "/adminMail.php");
 } catch (Exception $e) {
     $codigo_de_error = "2";
-    header('location: /munchies/index.php');
+    header('location: /index.php');
      exit;
 }
 
-header('location: /munchies/completado.php');
+header('location: /completado.php');
 echo 'completado';

@@ -6,9 +6,9 @@ error_reporting(E_ALL);
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-require_once($_SERVER["DOCUMENT_ROOT"] . "/munchies/php/Exception.php");
-require_once($_SERVER["DOCUMENT_ROOT"] . "/munchies/php/PHPMailer.php");
-require_once($_SERVER["DOCUMENT_ROOT"] . "/munchies/php/SMTP.php");
+require_once($_SERVER["DOCUMENT_ROOT"] . "/php/Exception.php");
+require_once($_SERVER["DOCUMENT_ROOT"] . "/php/PHPMailer.php");
+require_once($_SERVER["DOCUMENT_ROOT"] . "/php/SMTP.php");
 
 //Create an instance; passing `true` enables exceptions
 extract($_REQUEST);
@@ -18,18 +18,18 @@ try {
     //Server settings
     $mail->SMTPDebug = 0;                                       //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'mail.bananagroup.mx';                   //Set the SMTP server to send through
+    $mail->Host       = 'mail.loscabosmunchies.com';                   //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'seo@bananagroup.mx';    //SMTP username
-    $mail->Password   = 'Banana2023#';                        //SMTP password
+    $mail->Username   = 'info@loscabosmunchies.com';    //SMTP username
+    $mail->Password   = 'h4Wmz0StGg';                        //SMTP password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;                                  //Enable implicit TLS encryption
     $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //MANDAMOS EL NOMBRE EN UNA VARIABLE PARA PODER AGREGARLE LAA COMILLA SIMPLE
     $slh = "Banana Group - Cabo Munchies";
     //Recipients
-    $mail->setFrom('seo@bananagroup.mx', $slh); //QUIEN MANDA, CON EL NOMBRE
-    $mail->addAddress('seo@bananagroup.mx', 'Cabo Munchie'); //QUIEN RECIB
+    $mail->setFrom('info@loscabosmunchies.com', $slh); //QUIEN MANDA, CON EL NOMBRE
+    $mail->addAddress('info@loscabosmunchies.com', 'Cabo Munchies'); //QUIEN RECIB
 
     //Content
     $mail->isHTML(true); //ACEPTAR HTML

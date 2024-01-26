@@ -1,5 +1,5 @@
 <script
-    src="https://www.paypal.com/sdk/js?client-id=AZypmdhWpEOkIEmyEeJYHGjPCOmZRcqu86qmpk9FA0w8QS_w26HR4f9VuVfDM5wL6i9G_rCLo6aJIMqB&currency=MXN">
+    src="https://www.paypal.com/sdk/js?client-id=AQg1mNZMtFE08sU3b__-Os2fWnjxLHWLfxuccagrnvSkT2T1ZR3H0V8QlFRNilFLBj-KOPI2P1vgs6Mx&currency=MXN">
 </script>
 
 <script>
@@ -48,7 +48,7 @@ paypal.Buttons({
             // Show a success message to the buyer
             console.log(data);
             console.log(details);
-            window.location = ('/munchies/archivo-contacto.php?name=' + details.payer.name.given_name +
+            window.location = ('/archivo-contacto.php?name=' + details.payer.name.given_name +
                 '&email=' +
                 details.payer.email_address +
                 '&idTran=' + details.purchase_units[0].payments.captures[0].id +

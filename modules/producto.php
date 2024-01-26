@@ -98,9 +98,29 @@ extract($datos[$_REQUEST["id"]]);
                                     </div>
                                     <div class="product-info">
                                         <div class="pro-prlb pro-sale">
+                                        <h6 style="margin-right: 10px;">Precio: </h6>
                                             <div class="price-box">
                                                 <span class="new-price">$
                                                     <? echo $precio?>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="product-info">
+                                        <div class="pro-prlb pro-sale">
+                                        <h6 style="margin-right: 10px;">Impuestos: </h6>
+                                            <div class="price-box">
+                                                <span class="new-price">
+                                                    + 4%
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="product-info">
+                                        <div class="pro-prlb pro-sale">
+                                            <div class="price-box">
+                                                <span class="new-price">
+                                                   Envío se cobra por separado
                                                 </span>
                                             </div>
                                         </div>
