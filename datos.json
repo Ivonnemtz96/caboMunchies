@@ -3,168 +3,168 @@
       "id": 0,
       "nombre": "Manguitos Mojados",
       "precio": 80,
-      "descripcion": "Lorem",
+      "descripcion": "Sabores: Chamoy, infiernito, mango, tamarindo, durazno, fresa, sandía. Manguitos originales con tantos sabores para elegir. Nuestros manguitos son masticables y enchiladas. Elige tu sabor favorito.",
       "imagen": "img/product/product/00.jpg"
     },
     {
       "id": 1,
       "nombre": "Aros durazno",
       "precio": 85,
-      "descripcion": "Lorem",
+      "descripcion": "Enchilados-dry, salsita de mango, piña, spicy fresa, guayaba",
       "imagen": "img/product/product/01.jpg"
     },
     {
       "id": 2,
       "nombre": "Gusanitos",
       "precio": 85,
-      "descripcion": "Lorem",
+      "descripcion": "Salsa de mango, chamoy y piña",
       "imagen": "img/product/product/02.jpg"
     },
     {
       "id": 3,
       "nombre": "Eskwinklotes",
       "precio": 85,
-      "descripcion": "Lorem",
+      "descripcion": "Sandía, Tamarindo, Chamoy. ¡Eskwinklotes rellenos de sandía bañados en tu chamoy favorito! ¡Nunca un momento aburrido! ",
       "imagen": "img/product/product/03.jpg"
     },
     {
       "id": 4,
       "nombre": "Life Saversgummies",
       "precio": 135,
-      "descripcion": "Lorem",
+      "descripcion": "Sabores: Mango chamoy, sandía, fresa.",
       "imagen": "img/product/product/04.jpg"
     },
     {
       "id": 5,
       "nombre": "Sour Patch Kids",
       "precio": 135,
-      "descripcion": "Lorem",
+      "descripcion": "Sour Patch Kids Enchilados-dry, Mojados: fresa, sandía, guayaba. ",
       "imagen": "img/product/product/05.jpg"
     },
     {
       "id": 6,
       "nombre": "Skittles classics",
       "precio": 135,
-      "descripcion": "Lorem",
+      "descripcion": "Enchilados-dry, Mojados: sandía, fresa, durazno, infiernito.",
       "imagen": "img/product/product/06.jpg"
     },
     {
       "id": 7,
       "nombre": "Skittles gummies",
       "precio": 135,
-      "descripcion": "Lorem",
+      "descripcion": "Mojados: fresa, sandía, durazno, piña.",
       "imagen": "img/product/product/07.jpg"
     },
     {
       "id": 8,
       "nombre": "Sandillitas gummies",
       "precio": 85,
-      "descripcion": "Lorem",
+      "descripcion": "Enchilados-dry, Mojadas: sandía, chamoy. ",
       "imagen": "img/product/product/08.jpg"
     },
     {
       "id": 9,
       "nombre": "Panditas infiernito",
       "precio": 85,
-      "descripcion": "Lorem",
+      "descripcion": "Enchilados-dry, Mojadas: chamoy durazno , piña ,sandía ",
       "imagen": "img/product/product/09.jpg"
     },
     {
       "id": 10,
       "nombre": "Sandía Pops 2 pack",
       "precio": 65.65,
-      "descripcion": "Lorem",
+      "descripcion": "Salsa: Piña, mango, infiernillo, fresa, chamoy, sandía. ",
       "imagen": "img/product/product/10.jpg"
     },
     {
       "id": 11,
       "nombre": "Rockaleta 2 pack",
       "precio": 75,
-      "descripcion": "Lorem",
+      "descripcion": "Salsa: Chamoy, tamarindo, Guayaba, Durazno, sandía.",
       "imagen": "img/product/product/11.jpg"
     },
     {
       "id": 12,
       "nombre": "Cocada",
       "precio": 60,
-      "descripcion": "Lorem",
+      "descripcion": "Salsa: horchata, pumpkin spice. ",
       "imagen": "img/product/product/12.jpg"
     },
     {
       "id": 13,
       "nombre": "Aros de Sandía",
       "precio": 135,
-      "descripcion": "Lorem",
+      "descripcion": "Los aros de sandía mas jugosos que jamás haya probado, empacados en nuestro icónico chamoy de sandía. ¡Estos no tienen rival! Comelos fríos. ",
       "imagen": "img/product/product/13.jpg"
     },
     {
       "id": 14,
       "nombre": "Horchata Bundle Cabo",
       "precio": 125,
-      "descripcion": "Lorem",
+      "descripcion": "Nuestro paquete numero 1 en ventas. Obtienes tu cocada horneada con nuestro dulce de leche. Jamoncillo. Con nuestra irresistible salsa de horchata. ¡Obtienes lo mejor de ambos mundos! Recomendamos mantener en refrigerador al recibir y despues de abrirlo. Este articulo contiene lácteos. ",
       "imagen": "img/product/product/14.jpg"
     },
     {
       "id": 15,
       "nombre": "Dulce de leche Jamoncillo",
       "precio": 60,
-      "descripcion": "Lorem",
+      "descripcion": "Salsa: lechera, horchata, pumpkin spice. Manténganse en refrigeración. ",
       "imagen": "img/product/product/15.jpg"
     },
     {
       "id": 16,
       "nombre": "Manita Pop / Dip. Salsa",
       "precio": 42.50,
-      "descripcion": "Lorem",
+      "descripcion": "Salsa Salsa: de Chamoy, fresa y piña. 2 pzas.",
       "imagen": "img/product/product/16.jpg"
     },
     {
       "id": 17,
       "nombre": "Bubbaloo gum infiernito",
       "precio": 25,
-      "descripcion": "Lorem",
+      "descripcion": " ¡Chicle de fresa en nuestra salsa infiernito original! Vienen 5 pzs.",
       "imagen": "img/product/product/17.jpg"
     },
     {
       "id": 18,
       "nombre": "Cacahuates enchilados 5 oz",
       "precio": 85,
-      "descripcion": "Lorem",
+      "descripcion": "Salsa: mango, infiernito, cabo fuego, chamoy.",
       "imagen": "img/product/product/18.jpg"
     },
     {
       "id": 19,
       "nombre": "Borrachitos en lechera",
       "precio": 45.50,
-      "descripcion": "Lorem",
+      "descripcion": "Bañados con leche condensada, ¡dulce envinado! Manténgase en refrigeración",
       "imagen": "img/product/product/19.jpg"
     },
     {
       "id": 20,
       "nombre": "Bottle chamoy 250 ml.",
       "precio": 75,
-      "descripcion": "Lorem",
+      "descripcion": " Sabores: cabofuego, chamoy fresa, guayaba, sandía, tamarindo, durazno, piña, horchata!",
       "imagen": "img/product/product/20.jpg"
     },
     {
       "id": 21,
       "nombre": "Chamoy pasta",
       "precio": 120,
-      "descripcion": "Lorem",
+      "descripcion": "Sabores: Cabofuego, mango y sandía",
       "imagen": "img/product/product/21.jpg"
     },
     {
       "id": 22,
       "nombre": "Cabo chilito",
       "precio": 100,
-      "descripcion": "Lorem",
+      "descripcion": "Puedes usarlo con nuestros sabores de chamoy en borde o con frutas ¡La combinacion perfecta!",
       "imagen": "img/product/product/22.jpg"
     },
     {
       "id": 23,
       "nombre": "Cabo fiesta MIX",
       "precio": 85,
-      "descripcion": "Lorem",
+      "descripcion": "Mojado o enchilada: culichi fuego, mango, sandía. ",
       "imagen": "img/product/product/23.jpg"
     }
   ]  

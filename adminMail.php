@@ -18,18 +18,18 @@ try {
     //Server settings
     $mail->SMTPDebug = 0;                                       //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'smtp.gmail.com';                   //Set the SMTP server to send through
+    $mail->Host       = 'mail.bananagroup.mx';                   //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'ivonne.mtz.manzo@gmail.com';    //SMTP username
-    $mail->Password   = 'qcfhrdmbpknobrar';                        //SMTP password
-    $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;                                  //Enable implicit TLS encryption
-    $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+    $mail->Username   = 'seo@bananagroup.mx';    //SMTP username
+    $mail->Password   = 'Banana2023#';                        //SMTP password
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;                                  //Enable implicit TLS encryption
+    $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //MANDAMOS EL NOMBRE EN UNA VARIABLE PARA PODER AGREGARLE LAA COMILLA SIMPLE
     $slh = "Banana Group - Cabo Munchies";
     //Recipients
-    $mail->setFrom('ivonne.mtz.manzo@gmail.com', $slh); //QUIEN MANDA, CON EL NOMBRE
-    $mail->addAddress('ivonne.mtz.manzo@gmail.com', 'Cabo Munchie'); //QUIEN RECIB
+    $mail->setFrom('seo@bananagroup.mx', $slh); //QUIEN MANDA, CON EL NOMBRE
+    $mail->addAddress('seo@bananagroup.mx', 'Cabo Munchie'); //QUIEN RECIB
 
     //Content
     $mail->isHTML(true); //ACEPTAR HTML
