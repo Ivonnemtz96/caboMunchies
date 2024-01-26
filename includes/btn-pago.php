@@ -48,7 +48,7 @@ paypal.Buttons({
             // Show a success message to the buyer
             console.log(data);
             console.log(details);
-            window.location = ('/munchies/completado.php?name=' + details.payer.name.given_name +
+            window.location = ('/munchies/archivo-contacto.php?name=' + details.payer.name.given_name +
                 '&email=' +
                 details.payer.email_address +
                 '&idTran=' + details.purchase_units[0].payments.captures[0].id +

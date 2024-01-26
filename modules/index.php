@@ -78,54 +78,54 @@
                     <ul class="banner-block">
                         <li class="banner-wrap banner-hover">
                             <div class="box-img">
-                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                    target="_blank">
+                                <a href="#producto"
+                                    >
                                     <img src="img/banner/17.jpg" class="img-fluid" alt="Cabo Munchies" />
                                 </a>
                             </div>
                             <div class="custom-banner-content">
                                 <h2>Cocadas</h2>
-                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                    target="_blank" class="banner-link">Contactar</a>
+                                <a href="#producto"
+                                     class="banner-link">Comprar</a>
                             </div>
                         </li>
                         <li class="banner-wrap banner-hover">
                             <div class="box-img">
-                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                    target="_blank">
+                                <a href="#producto"
+                                    >
                                     <img src="img/banner/09.jpg" class="img-fluid" alt="Cabo Munchies" />
                                 </a>
                             </div>
                             <div class="custom-banner-content">
                                 <h2>Sandía</h2>
-                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                    target="_blank" class="banner-link">Contactar</a>
+                                <a href="#producto"
+                                     class="banner-link">Comprar</a>
                             </div>
                         </li>
                         <li class="banner-wrap banner-hover">
                             <div class="box-img">
-                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                    target="_blank">
+                                <a href="#producto"
+                                    >
                                     <img src="img/banner/11.jpg" class="img-fluid" alt="Cabo Munchies" />
                                 </a>
                             </div>
                             <div class="custom-banner-content">
                                 <h2>Gomitas</h2>
-                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                    target="_blank" class="banner-link">Contactar</a>
+                                <a href="#producto"
+                                     class="banner-link">Comprar</a>
                             </div>
                         </li>
                         <li class="banner-wrap banner-hover">
                             <div class="box-img">
-                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                    target="_blank">
+                                <a href="#producto"
+                                    >
                                     <img src="img/banner/12.jpg" class="img-fluid" alt="Cabo Munchies" />
                                 </a>
                             </div>
                             <div class="custom-banner-content">
                                 <h2>Cacahuates</h2>
-                                <a href="https://wa.me/+526241176413?text=Hola%20me%20gustaría%20más%20información."
-                                    target="_blank" class="banner-link">Contactar</a>
+                                <a href="#producto"
+                                     class="banner-link">Comprar</a>
                             </div>
                         </li>
                     </ul>
@@ -178,7 +178,7 @@
     <!-- custom-text end -->
 
     <!-- product-tab start -->
-    <section class="special-category collection-category-template section-ptb" style="background-color: #a1a1a1;">
+    <section class="special-category collection-category-template section-ptb" id="producto" style="background-color: #a1a1a1;">
         <div class="container">
             <div class="row">
                 <div class="col">

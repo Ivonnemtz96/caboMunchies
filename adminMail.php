@@ -155,12 +155,6 @@ try {
     $mail->CharSet = 'UTF-8';
 
     $mail->send();
-    $codigo_de_error = "0";
-    header('location: /?msj='. $codigo_de_error);
-        if (isset($_GET)) {
-        include_once("php/msg2.php");
-        }
-     exit;
 } catch (Exception $e) {
     echo "ERROR";
 }

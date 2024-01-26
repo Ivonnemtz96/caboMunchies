@@ -2,6 +2,8 @@
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
+session_start();
+
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
@@ -12,6 +14,10 @@ require_once($_SERVER["DOCUMENT_ROOT"] . "/munchies/php/SMTP.php");
 
 //Create an instance; passing `true` enables exceptions
 extract($_REQUEST);
+$_SESSION["name"] = $name;
+$_SESSION["producto"] = $producto;
+$_SESSION["cantidad"] = $cantidad;
+$_SESSION["amount"] = $amount;
 $codigo_de_error = "";
 
 $mail = new PHPMailer(true);
@@ -26,7 +32,7 @@ $mail = new PHPMailer(true);
 
 try {
     //Server settings
-    $mail->SMTPDebug = 3;                                       //Enable verbose debug output
+    $mail->SMTPDebug = 0;                                       //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
     $mail->Host       = 'smtp.gmail.com';                   //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
@@ -175,9 +181,11 @@ try {
     $mail->CharSet = 'UTF-8';
     $mail->send();
     require_once($_SERVER["DOCUMENT_ROOT"] . "/munchies/adminMail.php");
-     exit;
 } catch (Exception $e) {
     $codigo_de_error = "2";
-    header('location: /completado.php?msj='. $codigo_de_error);
+    header('location: /munchies/index.php');
      exit;
 }
+
+header('location: /munchies/completado.php');
+echo 'completado';
