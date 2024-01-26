@@ -198,8 +198,8 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="producto.php?id=18" class="pro-img">
-                                                <img src="img/product/03.jpg" class="img-fluid img1"
+                                            <a href="producto.php?id=0" class="pro-img">
+                                                <img src="img/product/product/00.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
                                                     alt="Cabo Munchies" />
@@ -209,8 +209,8 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a style="color: #fff;" href="producto.php?id=18">
-                                                    Cacahuates enchilados
+                                                <a style="color: #fff;" href="producto.php?id=0">
+                                                    Manguitos Mojados
                                                 </a>
                                             </h6>
                                         </div>
@@ -225,7 +225,7 @@
                                         <!-- product-img start -->
                                         <div class="product-image">
                                             <a href="producto.php?id=1" class="pro-img">
-                                                <img src="img/product/04.jpg" class="img-fluid img1"
+                                                <img src="img/product/product/01.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
                                                     alt="Cabo Munchies" />
@@ -250,8 +250,8 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="producto.php?id=12" class="pro-img">
-                                                <img src="img/product/14.jpg" class="img-fluid img1"
+                                            <a href="producto.php?id=2" class="pro-img">
+                                                <img src="img/product/product/02.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/15.jpg" class="img-fluid img2"
                                                     alt="Cabo Munchies" />
@@ -263,7 +263,7 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a style="color: #fff;" href="producto.php?id=12">Cocadas</a>
+                                                <a style="color: #fff;" href="producto.php?id=2">Gusanitos</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -275,8 +275,8 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="producto.php?id=0" class="pro-img">
-                                                <img src="img/product/07.jpg" class="img-fluid img1"
+                                            <a href="producto.php?id=3" class="pro-img">
+                                                <img src="img/product/product/03.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
                                                     alt="Cabo Munchies" />
@@ -288,7 +288,7 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a style="color: #fff;" href="producto.php?id=0">Manguitos mojados</a>
+                                                <a style="color: #fff;" href="producto.php?id=3">Eskwinklotes</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -300,8 +300,130 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
+                                            <a href="producto.php?id=4" class="pro-img">
+                                                <img src="img/product/product/04.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a style="color: #fff;" href="producto.php?id=4">Life Saversgummies</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+                                <!-- <div class="swiper-slide">
+                                    <div class="single-product-wrap">                                        
+                                        <div class="product-image">
+                                            <a href="producto.php?id=5" class="pro-img">
+                                                <img src="img/product/11.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                        </div>
+                                        <div class="product-content">
+                                            <h6>
+                                                <a style="color: #fff;" href="producto.php?id=5">Sour Patch Kids</a>
+                                            </h6>
+                                        </div>
+                                    </div>
+                                </div> -->
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="producto.php?id=6" class="pro-img">
+                                                <img src="img/product/product/06.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a style="color: #fff;" href="producto.php?id=6">Skittles classics</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="producto.php?id=7" class="pro-img">
+                                                <img src="img/product/product/07.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a style="color: #fff;" href="producto.php?id=7">Skittles gummies</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="producto.php?id=8" class="pro-img">
+                                                <img src="img/product/product/08.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a style="color: #fff;" href="producto.php?id=8">Sandillitas gummies</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
                                             <a href="producto.php?id=9" class="pro-img">
-                                                <img src="img/product/09.jpg" class="img-fluid img1"
+                                                <img src="img/product/product/09.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
                                                     alt="Cabo Munchies" />
@@ -326,8 +448,8 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="producto.php?id=8" class="pro-img">
-                                                <img src="img/product/11.jpg" class="img-fluid img1"
+                                            <a href="producto.php?id=10" class="pro-img">
+                                                <img src="img/product/product/10.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
                                                     alt="Cabo Munchies" />
@@ -339,7 +461,62 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a style="color: #fff;" href="producto.php?id=8">Sandillitas gummies</a>
+                                                <a style="color: #fff;" href="producto.php?id=10">Sandía Pops 2 pack</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="producto.php?id=11" class="pro-img">
+                                                <img src="img/product/product/11.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a style="color: #fff;" href="producto.php?id=11">Rockaleta 2 pack</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="producto.php?id=12" class="pro-img">
+                                                <img src="img/product/product/12.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a style="color: #fff;" href="producto.php?id=12">Cocada</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -352,8 +529,8 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="producto.php?id=8" class="pro-img">
-                                                <img src="img/product/11.jpg" class="img-fluid img1"
+                                            <a href="producto.php?id=13" class="pro-img">
+                                                <img src="img/product/product/13.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
                                                     alt="Cabo Munchies" />
@@ -365,7 +542,7 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a style="color: #fff;" href="producto.php?id=8">Sandillitas gummies</a>
+                                                <a style="color: #fff;" href="producto.php?id=13">Aros de Sandía</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -378,8 +555,8 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="producto.php?id=8" class="pro-img">
-                                                <img src="img/product/11.jpg" class="img-fluid img1"
+                                            <a href="producto.php?id=14" class="pro-img">
+                                                <img src="img/product/product/14.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
                                                     alt="Cabo Munchies" />
@@ -391,7 +568,8 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a style="color: #fff;" href="producto.php?id=8">Sandillitas gummies</a>
+                                                <a style="color: #fff;" href="producto.php?id=14">Horchata Bundle
+                                                    Cabo</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -404,8 +582,8 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="producto.php?id=8" class="pro-img">
-                                                <img src="img/product/11.jpg" class="img-fluid img1"
+                                            <a href="producto.php?id=15" class="pro-img">
+                                                <img src="img/product/product/15.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
                                                     alt="Cabo Munchies" />
@@ -417,7 +595,54 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a style="color: #fff;" href="producto.php?id=8">Sandillitas gummies</a>
+                                                <a style="color: #fff;" href="producto.php?id=15">Dulce de leche
+                                                    Jamoncillo</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+                                <!-- <div class="swiper-slide">
+                                    <div class="single-product-wrap">
+                                        <div class="product-image">
+                                            <a href="producto.php?id=16" class="pro-img">
+                                                <img src="img/product/11.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                        </div>
+                                        <div class="product-content">
+                                            <h6>
+                                                <a style="color: #fff;" href="producto.php?id=16">Manita Pop / Dip.
+                                                    Salsa</a>
+                                            </h6>
+                                        </div>
+                                    </div>
+                                </div> -->
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="producto.php?id=17" class="pro-img">
+                                                <img src="img/product/product/17.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a style="color: #fff;" href="producto.php?id=17">Bubbaloo gum
+                                                    infiernito</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -430,8 +655,8 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="producto.php?id=8" class="pro-img">
-                                                <img src="img/product/11.jpg" class="img-fluid img1"
+                                            <a href="producto.php?id=18" class="pro-img">
+                                                <img src="img/product/product/18.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
                                                     alt="Cabo Munchies" />
@@ -443,7 +668,8 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a style="color: #fff;" href="producto.php?id=8">Sandillitas gummies</a>
+                                                <a style="color: #fff;" href="producto.php?id=18">Cacahuates enchilados
+                                                    5 oz</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
@@ -456,7 +682,113 @@
                                     <div class="single-product-wrap">
                                         <!-- product-img start -->
                                         <div class="product-image">
-                                            <a href="producto.php?id=8" class="pro-img">
+                                            <a href="producto.php?id=19" class="pro-img">
+                                                <img src="img/product/product/19.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a style="color: #fff;" href="producto.php?id=19">Borrachitos en
+                                                    lechera</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="producto.php?id=20" class="pro-img">
+                                                <img src="img/product/product/20.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a style="color: #fff;" href="producto.php?id=20">Bottle chamoy 250
+                                                    ml.</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="producto.php?id=21" class="pro-img">
+                                                <img src="img/product/product/21.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a style="color: #fff;" href="producto.php?id=21">Chamoy pasta</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="producto.php?id=22" class="pro-img">
+                                                <img src="img/product/product/22.jpg" class="img-fluid img1"
+                                                    alt="Cabo Munchies" />
+                                                <img src="img/product/13.jpg" class="img-fluid img2"
+                                                    alt="Cabo Munchies" />
+                                            </a>
+                                            <!-- product-action end -->
+                                        </div>
+                                        <!-- product-img end -->
+                                        <!-- product-content start -->
+                                        <div class="product-content">
+                                            <!-- product-title start -->
+                                            <h6>
+                                                <a style="color: #fff;" href="producto.php?id=22">Cabo chilito</a>
+                                            </h6>
+                                        </div>
+                                        <!-- product-content end -->
+                                    </div>
+                                    <!-- product end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- product start -->
+                                    <div class="single-product-wrap">
+                                        <!-- product-img start -->
+                                        <div class="product-image">
+                                            <a href="producto.php?id=23" class="pro-img">
                                                 <img src="img/product/11.jpg" class="img-fluid img1"
                                                     alt="Cabo Munchies" />
                                                 <img src="img/product/13.jpg" class="img-fluid img2"
@@ -469,13 +801,16 @@
                                         <div class="product-content">
                                             <!-- product-title start -->
                                             <h6>
-                                                <a style="color: #fff;" href="producto.php?id=8">Sandillitas gummies</a>
+                                                <a style="color: #fff;" href="producto.php?id=23">Cabo fiesta MIX</a>
                                             </h6>
                                         </div>
                                         <!-- product-content end -->
                                     </div>
                                     <!-- product end -->
                                 </div>
+
+
+
                             </div>
 
                             <div style="color:red !important" class="swiper-pagination"></div>

@@ -5,7 +5,7 @@ error_reporting(E_ALL);
 // Se cambia las confirmaciones que se tenían en modules/completado.php y se ponen en este archivo de completado para que se ejecute la condición,mailCompletado se posiciona en la carpeta raíz
 if (((isset($_REQUEST['idTran']))and(isset($_REQUEST['idCheckOut'])))and($_REQUEST['idTran']!='')and(($_REQUEST['idCheckOut']!=''))) {
     extract($_REQUEST);
-    include('mailCompletadoUsuario.php');
+    include('archivo-contacto.php');
   } else {
     header('location: /munchies/index.php');
     exit;
